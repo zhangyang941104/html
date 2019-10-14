@@ -1,0 +1,364 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.box{
+    width: 1060px;
+    height: 561px;
+    
+    margin:0 auto;
+    margin-top: 100px;
+    position: relative;
+}
+.head{
+    width:1060px;
+    height:36px;
+    position: absolute;
+
+}
+.ge{
+    width:80px;
+    height:36px;
+    position: absolute;
+    top:0px;
+    left:120px;
+}
+#zi{
+    width:32px;
+    height:16px;
+    font-size: 16px;
+    color: #666666;
+    font-family: 黑体;
+    position: absolute;  
+}
+#zz{
+    position: absolute;
+    top:10px;
+    left:13px;
+    width:67px;
+}
+#zi:hover{
+      color:#fff;
+      display: inline-block;
+      width:80px;
+      height:36px;
+      background:#ff4646;
+      border-radius: 5px;
+}
+.zgjs{
+    width:80px;
+    height:36px;
+    position: absolute;
+    top:0px;
+    left:219px;
+}
+.dav{
+    width:80px;
+    height:36px;
+    position: absolute;
+    top:0px;
+    left:332px;
+}
+.guoji{
+    width:65px;
+    height:36px;
+    position: absolute;
+    top:0px;
+    left:430px;
+}
+.jsjw{
+    width:80px;
+    height:36px;
+    position: absolute;
+    top:0px;
+    left:528px;
+}
+.dqct{
+    width:80px;
+    height:36px;
+    position: absolute;
+    top:0px;
+    left:628px;
+}
+.jsyx{
+    width:80px;
+    height:36px;
+    position: absolute;
+    top:0px;
+    left:729px;
+}
+.wqzb{
+    width:80px;
+    height:36px;
+    position: absolute;
+    top:0px;
+    left:839px;
+}
+.body{
+    width:730px;
+    height:496px;
+    position: absolute;
+    top:62px;
+}
+.sm{
+    width:486px;
+    height:34px;
+    background:#303030;
+    position: absolute;
+    top:240px;
+}
+#sm{
+    font-size: 18px;
+    font-family: 黑体;
+    font-weight: 800;
+    color:#fff;
+    width:350px;
+    height:18px;
+    position: absolute;
+    top:9px;
+    left:9px;
+}
+#lb{
+    position: absolute;
+    left:410px;
+    top:15px;
+    width:7px;
+    height:7px;
+    background:#d3d3d3;
+    border-radius: 5px;
+}
+#lb:hover{
+      border-radius: 5px;
+      width:7px;
+      height:7px;
+      
+      background:red;
+}
+#lb1{
+    position: absolute;
+    left:423px;
+    top:15px;
+    width:7px;
+    height:7px;
+    background:#d3d3d3;
+    border-radius: 5px;
+}
+#lb1:hover{
+    border-radius: 5px;
+      width:7px;
+      height:7px;
+      
+      background:red;
+}
+#lb2{
+    position: absolute;
+    left:436px;
+    top:15px;
+    width:7px;
+    height:7px;
+    background:#d3d3d3;
+    border-radius: 5px;
+}
+#lb2:hover{
+    border-radius: 5px;
+      width:7px;
+      height:7px;
+      
+      background:red;
+}
+#lb3{
+    position: absolute;
+    left:449px;
+    top:15px;
+    width:7px;
+    height:7px;
+    background:#d3d3d3;
+    border-radius: 5px;
+}
+#lb3:hover{
+    border-radius: 5px;
+      width:7px;
+      height:7px;
+      
+      background:red;
+}
+#lb4{
+    position: absolute;
+    left:462px;
+    top:15px;
+    width:7px;
+    height:7px;
+    background:#d3d3d3;
+    border-radius: 5px;
+}
+#lb4:hover{
+    border-radius: 5px;
+      width:7px;
+      height:7px;
+      
+      background:red;
+}
+#t1{
+    position: absolute;
+    top:0px;
+    left:490px;
+}
+#t2{
+    position: absolute;
+    top:139px;
+    left:490px;
+}
+#t3{
+    position: absolute;
+    top:294px;
+    left:0px;
+}
+#tuzi{
+    width:506px;
+    height:83px;
+    position: absolute;
+    top:298px;
+    left:175px;
+}
+#p1{
+    font-size: 20px;
+    color:#333333;
+    font-family: 黑体;
+    font-weight: 700;
+    height:20px;
+}
+#p2{
+    height:12px;
+    font-size: 12px;
+    font-family: 黑体;
+    margin-top: 25px;
+}
+#p3{
+    height:12px;
+    font-size: 12px;
+    font-family: 黑体;
+    margin-top: 13px;
+}
+hr{
+    width:730px;
+    height:1px;
+    background:#e8e8e8;
+    position: absolute;
+    top:394px;
+    border:0;
+}
+#t4{
+    position: absolute;
+    top:405px;
+    left:0px;
+}
+#tuzi1{
+    width:506px;
+    height:83px;
+    position: absolute;
+    top:408px;
+    left:175px;
+}
+.shu{
+    width:298px;
+    height:467px;
+    position: absolute;
+    top:81px;
+    left:761px;
+}
+#x{
+    width:298px;
+    position: absolute;
+    background:#dddddd;
+    height:1px;
+    top:1px;
+}
+#x2{
+    width:95px;
+    height:3px;
+    position: absolute;
+    background:#ee4c4c;
+    top:0px;
+}
+#shu1{
+    
+    height:16px;
+    font-size: 16px;
+    color:#444444;
+    position: absolute;
+    top:18px;
+    font-weight: 700;
+}
+#shu2{
+    font-size: 12px;
+    color:#999999;
+    font-family: 黑体;
+    position: absolute;
+    top:19px;
+    left:252px;
+}
+.uu1{
+    width:298px;
+    height:99px;
+    border:1px solid #e8e8e8;
+    position: absolute;
+    top:55px; 
+}
+#tutu{
+    position: absolute;
+    top:16px;
+    left:16px;
+}
+#hz{
+    font-size: 13px;
+    color:#ee4c4c;
+    font-family: 黑体;
+    font-weight: 600;
+    width:75px;
+    height:13px;
+    position: absolute;
+    top:23px;
+    left:51px;
+}
+#riqi{
+    width:60px;
+    height:9px;
+    color:#999999;
+    position: absolute;
+    top:22px;
+    left:223px;
+    font-family: 黑体;
+    font-size: 9px;
+}
+#zzzz{
+    width:266px;
+    font-size: 12px;
+    color:#444444;
+    position: absolute;
+    top:50px;
+    left:16px;
+    font-family: 黑体;
+}
+.uu2{
+    width:298px;
+    height:99px;
+    border:1px solid #e8e8e8;
+    position: absolute;
+    top:156px; 
+}
+.uu3{
+    width:298px;
+    height:99px;
+    border:1px solid #e8e8e8;
+    position: absolute;
+    top:256px; 
+}
+.uu4{
+    width:298px;
+    height:99px;
+    border:1px solid #e8e8e8;
+    position: absolute;
+    top:356px; 
+}
